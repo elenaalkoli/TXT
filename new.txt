@@ -1,1 +1,4 @@
-
+FirstName - Elena
+LastName - Al
+Age - 20
+Expected salary in $ - 2300
